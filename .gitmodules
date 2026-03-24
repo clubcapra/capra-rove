@@ -7,3 +7,6 @@
 [submodule "capra-wtv2hdmi"]
 	path = capra-wtv2hdmi
 	url = https://github.com/clubcapra/capra-wtv2hdmi.git
+[submodule "capra-lora-proxy"]
+	path = capra-lora-proxy
+	url = https://github.com/clubcapra/capra-lora-proxy.git
