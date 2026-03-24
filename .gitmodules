@@ -1,0 +1,3 @@
+[submodule "capra.rove.interface"]
+	path = capra.rove.interface
+	url = https://github.com/clubcapra/capra.rove.interface.git
