@@ -1,3 +1,6 @@
 [submodule "capra-rove-interface"]
 	path = capra-rove-interface
 	url = https://github.com/clubcapra/capra-rove-interface.git
+[submodule "capra-rove-command-router"]
+	path = capra-rove-command-router
+	url = https://github.com/clubcapra/capra-rove-command-router.git
