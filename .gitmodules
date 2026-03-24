@@ -4,3 +4,6 @@
 [submodule "capra-rove-command-router"]
 	path = capra-rove-command-router
 	url = https://github.com/clubcapra/capra-rove-command-router.git
+[submodule "capra-wtv2hdmi"]
+	path = capra-wtv2hdmi
+	url = https://github.com/clubcapra/capra-wtv2hdmi.git
